@@ -1,0 +1,11 @@
+pre {
+  display: inline;
+}
+
+marquee {
+  padding: 250;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: black;
+  font-size: 2em;
+}
